@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Pile" Guid="ca92f043-df28-49d4-9d04-7d82ad9ac76d" CurrentVersion="1.0.0.0" Etag="&quot;3dd96fc9-b9d0-4800-9118-276a3aba156b&quot;">
+    <AttributeSetDefinition Uid="a9b244b8-9a96-4fb1-9e5c-643c5526acd7" Text="PileCommon">
+        <Attributes>
+		    <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+			<AttributeValue Uid="3c9667ea-655e-42c4-9fd8-e2a6e5c181eb" Ifnr="573" Text="Tragendes Bauteil" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

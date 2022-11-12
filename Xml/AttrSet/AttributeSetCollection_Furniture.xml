@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Furniture" Guid="71a2800e-0b94-4d0d-b5be-d6a323c38382" CurrentVersion="1.0.0.0" Etag="&quot;daae5325-7880-45d6-9c0b-a14daf52828b&quot;">
+    <AttributeSetDefinition Uid="a90a1896-4d2b-b535-15db-843a50f91209" Text="FurnitureTypeCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="904f28ae-9d0f-216e-ba69-144cfc91e41b" Ifnr="18269" Text="Stil" />
+            <AttributeValue Uid="4256824e-ef6b-2b2e-a233-82536561605f" Ifnr="18270" Text="Nennhöhe" />
+            <AttributeValue Uid="fce2fbab-2ae2-7e0d-d520-9d4202f8ae91" Ifnr="18271" Text="Nennlänge" />
+            <AttributeValue Uid="290c7743-f4ab-6fd3-4c47-0141c25dd62e" Ifnr="18272" Text="Nenntiefe" />
+            <AttributeValue Uid="ee54f504-1c5d-3e80-4b64-7b5c11bb7783" Ifnr="18273" Text="Hauptfarbe" />
+            <AttributeValue Uid="a2502296-63f9-374a-fb04-37d5e968cf16" Ifnr="18274" Text="Eingebaut" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

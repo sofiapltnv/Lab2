@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="SystemFurnitureElement" Guid="1903862a-9526-466a-a045-57757c49e7ee" CurrentVersion="1.0.0.0" Etag="&quot;60e81db4-51f6-4317-97aa-8eb40fad136b&quot;">
+    <AttributeSetDefinition Uid="863c5d0b-d5d8-e5a8-a3b5-0a7bc7a1127f" Text="SystemFurnitureElementTypeCommon">
+        <Attributes>
+            <AttributeValue Uid="281fa5bf-3c3f-0881-a029-de894f21a970" Ifnr="18275" Text="Verwendet" />
+            <AttributeValue Uid="a1aca478-af9d-dd43-2891-8dbd17af4ac4" Ifnr="18276" Text="Gruppennummer" />
+            <AttributeValue Uid="7438d011-ea61-b9d6-33db-076de30eb8db" Ifnr="18277" Text="Nennbreite" />
+            <AttributeValue Uid="4256824e-ef6b-2b2e-a233-82536561605f" Ifnr="18270" Text="Nennhöhe" />
+            <AttributeValue Uid="bcf02c24-04f1-3578-a88d-a99b6931cc98" Ifnr="18278" Text="Oberflächenbehandlung" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

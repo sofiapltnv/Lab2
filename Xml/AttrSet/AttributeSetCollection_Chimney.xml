@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Chimney" Guid="e504f24c-e643-452b-b901-6a18883dc7e9" CurrentVersion="1.0.0.0" Etag="&quot;2750fb90-c25e-48c3-8456-b5cbb6399998&quot;">
+    <AttributeSetDefinition Uid="159b5e1a-a8b5-8817-1dd0-0a5ee39e6009" Text="ChimneyCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="94d9eb67-28dd-4af2-a7e2-5648464c68c5" Ifnr="1972" Text="Zügigkeit" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="3c9667ea-655e-42c4-9fd8-e2a6e5c181eb" Ifnr="573" Text="Tragendes Bauteil" />
+            <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

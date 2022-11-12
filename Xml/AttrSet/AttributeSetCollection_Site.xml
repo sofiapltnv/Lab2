@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Site" Guid="8a20adef-b06d-47ec-9d1d-f3bed748c72b" CurrentVersion="1.0.0.0" Etag="&quot;8cdcd045-3757-46a6-922d-48754eab2656&quot;">
+    <AttributeSetDefinition Uid="dcac0aa5-d3de-4c7f-8413-fef71d8a2d75" Text="SiteCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="332fd934-20d2-456f-91e9-717558a9ea9b" Ifnr="548" Text="bebaubare Fläche" />
+			<AttributeValue Uid="291312DB-1B66-1A48-1B98-CC16ACA396D1" Ifnr="18254" Text="Grundflächenzahl" />
+            <AttributeValue Uid="a2e71f10-33cb-4887-80ab-0330af3fa1ff" Ifnr="466" Text="Geschossflächenzahl" />
+			<AttributeValue Uid="E9C95ECF-9BC3-4C86-84ED-8038408746D3" Ifnr="549" Text="Maximale Bebauungshöhe" />
+		    <AttributeValue Uid="7a196386-70bb-4ce2-ae82-5e41e07e67d5" Ifnr="550" Text="Bruttogrundstücksfläche" />
+        </Attributes>
+    </AttributeSetDefinition>
+    <AttributeSetDefinition Uid="317243E5-914E-44CB-B80F-9086040F461D" Text="Site address">
+        <Attributes>
+          <AttributeValue Uid="79EA2837-1256-457E-B2A9-1B09B9B0B696" Ifnr="18257" Text="Abteilung" />
+          <AttributeValue Uid="A290AD70-586B-4C60-82D3-6813A8990328" Ifnr="18258" Text="Adresszeile 1" />
+          <AttributeValue Uid="DE5BC5F4-5EAB-43F1-A8D5-03C6D771D7AA" Ifnr="18259" Text="Adresszeile 2" />
+          <AttributeValue Uid="8CF1DA01-B9CC-41AA-9E4C-99363F0DA227" Ifnr="18260" Text="Postfach" />
+          <AttributeValue Uid="8FDBB713-9F03-4BDA-B882-46A192DFFC10" Ifnr="18261" Text="Stadt" />
+          <AttributeValue Uid="C945461E-3946-4E5F-BC91-7EECE1F893D5" Ifnr="18263" Text="Postleitzahl" />
+          <AttributeValue Uid="C06983BA-E09B-4B25-B1D1-E8F5082EF580" Ifnr="18262" Text="Region" />
+          <AttributeValue Uid="2045a78e-1cfe-49bc-8fd3-bee381cce1c9" Ifnr="289" Text="Land" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

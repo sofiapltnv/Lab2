@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="DoorOpening" Guid="9eaf09c4-1f56-43ee-b008-5291ec50e7e1" CurrentVersion="1.0.0.0" Etag="&quot;8bc81a77-9937-4a58-961a-e584f4f65684&quot;">
+    <AttributeSetDefinition Uid="4bd23ac0-5a49-99d2-ddd2-0f1825d0041e" Text="OpeningElementCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="ad6f835f-dcda-7b9f-37b9-2e5837324eb1" Ifnr="1441" Text="Öffnungszweck" />
+            <AttributeValue Uid="2444fe3f-821f-4af9-a228-d213039a014f" Ifnr="1381" Text="Notausgang" />
+            <AttributeValue Uid="1eabc13f-60ba-4bd9-bef6-5285af137700" Ifnr="1962" Text="ProtectedOpening" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

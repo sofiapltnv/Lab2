@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Room" Guid="885fb391-013b-4baa-b35b-1b50f6b7d31b" CurrentVersion="1.0.0.0" Etag="&quot;85ee8d82-2a9e-4af0-91ce-21a1f8a54c12&quot;">
+    <AttributeSetDefinition Uid="35fc03cd-44ac-7f3f-980c-d2a0e8458023" Text="SpaceCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+            <AttributeValue Uid="3b6b5aa5-929f-4b27-aaa6-9b9cc756a3d9" Ifnr="1959" Text="Bruttofläche nach Raumprogramm" />
+            <AttributeValue Uid="8c8b0869-2d3d-486c-9510-5ecadafc61b5" Ifnr="1960" Text="Nettofläche nach Raumprogramm" />
+            <AttributeValue Uid="8c46ec9c-37fd-4eeb-877c-4b7713ec2fce" Ifnr="1961" Text="öffentlich zugänglich" />
+            <AttributeValue Uid="00566b05-f829-44cb-b6f2-b8e35aeaf739" Ifnr="1375" Text="Behindertengerecht" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

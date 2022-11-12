@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Foundation" Guid="3a508cf2-bb2f-4cc5-9b8c-fbc1a5848bba" CurrentVersion="1.0.0.0" Etag="&quot;b0671b1f-5e3c-4ce6-8808-55831c895076&quot;">
+    <AttributeSetDefinition Uid="4be54de6-f7fa-a190-fa0f-05d5253008c0" Text="FootingCommon">
+        <Attributes>
+		    <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="3c9667ea-655e-42c4-9fd8-e2a6e5c181eb" Ifnr="573" Text="Tragendes Bauteil" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

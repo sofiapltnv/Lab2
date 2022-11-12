@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="CurtainWall" Guid="7df53392-c401-4485-a732-545e763fb89d" CurrentVersion="1.0.0.0" Etag="&quot;94d11e58-5233-489c-a960-8ec2afc5ecd0&quot;">
+    <AttributeSetDefinition Uid="a6238ec9-892d-bde0-9970-3581660bb12a" Text="CurtainWallCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="7a92ed54-6c33-4e79-a79f-9ec216d4c43a" Ifnr="1373" Text="Schallschutzklasse" />
+            <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+            <AttributeValue Uid="638dd460-149f-4bcc-a8cf-e35695a41c5f" Ifnr="1371" Text="Brennbares Material" />
+            <AttributeValue Uid="5b25ffc8-84f3-4fed-abf9-68a3d058f852" Ifnr="1372" Text="Brandverhalten" />
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

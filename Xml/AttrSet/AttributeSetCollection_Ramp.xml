@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Ramp" Guid="0d0fc3ce-947b-4ad3-9ca9-e341253a2dc8" CurrentVersion="1.0.0.0" Etag="&quot;a3c5ca93-c047-422b-8995-d55922c5ff62&quot;">
+    <AttributeSetDefinition Uid="55f1eafa-242e-4381-843b-a004e849795a" Text="RampCommon">
+        <Attributes>
+		    <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="9fd945fc-2a67-4dee-b72d-de7a990cf8c2" Ifnr="1377" Text="erf. Durchgangshöhe" />
+            <AttributeValue Uid="77ccc0b7-0787-42f3-a272-3191470849f7" Ifnr="1378" Text="erf. Neigung" />
+            <AttributeValue Uid="00566b05-f829-44cb-b6f2-b8e35aeaf739" Ifnr="1375" Text="Barrierefrei" />
+            <AttributeValue Uid="2bb47ea5-6358-4e92-82d8-7c62f812f425" Ifnr="1406" Text="Rutschfest" />
+            <AttributeValue Uid="3807d2e5-db67-47f7-bfdd-6a9fda9080fa" Ifnr="1376" Text="Fluchtweg" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="3c9667ea-655e-42c4-9fd8-e2a6e5c181eb" Ifnr="573" Text="Tragendes Bauteil" />
+            <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Plate" Guid="cbc09f60-ba6f-4498-9626-855960f41f26" CurrentVersion="1.0.0.0" Etag="&quot;f01b94ba-6e6e-4d0e-ab09-9225f19dc15b&quot;">
+    <AttributeSetDefinition Uid="cb4e286b-486e-484c-8fe3-e5bdd1c8c958" Text="PlateCommon">
+        <Attributes>
+		    <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="7a92ed54-6c33-4e79-a79f-9ec216d4c43a" Ifnr="1373" Text="Schallschutzklasse" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="3c9667ea-655e-42c4-9fd8-e2a6e5c181eb" Ifnr="573" Text="Tragendes Bauteil" />
+            <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

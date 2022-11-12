@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Column" Guid="2e308afe-d078-4c20-b53c-76b2da66d848" CurrentVersion="1.0.0.0" Etag="&quot;cfa53941-3b2d-46b3-b362-b224c962c494&quot;">
+    <AttributeSetDefinition Uid="9afaabfe-a53c-23dd-4109-3b1c6c243b28" Text="ColumnCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="e02459b5-a1f0-4fb5-953b-8666a2e93c46" Ifnr="909" Text="Neigung" />
+            <AttributeValue Uid="09da42f1-356e-48d7-841e-010742370c0b" Ifnr="1957" Text="Drehwinkel" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="3c9667ea-655e-42c4-9fd8-e2a6e5c181eb" Ifnr="573" Text="Tragendes Bauteil" />
+            <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

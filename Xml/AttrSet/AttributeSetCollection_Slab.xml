@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Slab" Guid="587df3eb-06c0-43cc-aef8-5839641027ec" CurrentVersion="1.0.0.0" Etag="&quot;b6e43bd2-ae90-4f32-bcb6-1002b20b001f&quot;">
+    <AttributeSetDefinition Uid="92fbcd1f-090f-9116-25ea-798bc4f3f7c6" Text="SlabCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="7a92ed54-6c33-4e79-a79f-9ec216d4c43a" Ifnr="1373" Text="Schallschutzklasse" />
+            <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+            <AttributeValue Uid="77bad173-e0a3-464a-b284-a17a1d73e93e" Ifnr="1958" Text="Dachflächenneigung" />
+            <AttributeValue Uid="638dd460-149f-4bcc-a8cf-e35695a41c5f" Ifnr="1371" Text="Brennbares Material" />
+            <AttributeValue Uid="5b25ffc8-84f3-4fed-abf9-68a3d058f852" Ifnr="1372" Text="Brandverhalten" />
+            <AttributeValue Uid="9d6f22ae-ddd4-4279-b703-7b31edf183fc" Ifnr="1396" Text="Brandabschnittsdefinierendes Bauteil" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="3c9667ea-655e-42c4-9fd8-e2a6e5c181eb" Ifnr="573" Text="Tragendes Bauteil" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="FloorCovering" Guid="555e9fa5-3401-452e-a246-f7ab2c991dcf" CurrentVersion="1.0.0.0" Etag="&quot;625e8363-8487-4baf-97be-4517e8755dbd&quot;">
+    <AttributeSetDefinition Uid="bb555b3d-4dc6-492d-b6a8-ddcc4af3c433" Text="CoveringCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="7a92ed54-6c33-4e79-a79f-9ec216d4c43a" Ifnr="1373" Text="Schallschutzklasse" />
+            <AttributeValue Uid="366EE2E1-D66D-1F99-DA71-71534D5C6270" Ifnr="18074" Text="Entflammbarkeitsklasse" />
+            <AttributeValue Uid="2642DCE6-8090-441D-A538-122D2723C29F" Ifnr="1970" Text="Fragilitätsklasse" />
+            <AttributeValue Uid="638dd460-149f-4bcc-a8cf-e35695a41c5f" Ifnr="1371" Text="Brennbares Material" />
+            <AttributeValue Uid="5b25ffc8-84f3-4fed-abf9-68a3d058f852" Ifnr="1372" Text="Brandverhalten" />
+            <AttributeValue Uid="67F871CE-F63F-43D0-A996-31F9BB5EA91D" Ifnr="1394" Text="Oberflächengüte" />			
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />			
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+		    <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Railing" Guid="d0a3e875-589f-4a10-b474-af91204003b0" CurrentVersion="1.0.0.0" Etag="&quot;fc36784b-91a9-4553-b836-0d60ff4f153a&quot;">
+    <AttributeSetDefinition Uid="c717c064-a787-4a36-81d3-cd2ed9961d5a" Text="RailingCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="92ded243-5528-40aa-a609-47c7121d2315" Ifnr="18045" Text="Höhe" />
+            <AttributeValue Uid="366fe05a-58b1-4657-a90b-b7ed6a90e198" Ifnr="18057" Text="Durchmesser" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Storey" Guid="8a20adef-b06d-47ec-9d1d-f3bed748c72b" CurrentVersion="1.0.0.0" Etag="&quot;8cdcd045-3757-46a6-922d-48754eab2656&quot;">
+    <AttributeSetDefinition Uid="35fc03cd-44ac-7f3f-980c-d2a0e8458023" Text="StoreyCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="1AAA9767-D39A-E059-0CC4-3E2AFE75C774" Ifnr="18075" Text="Eingangsebene" />
+		    <AttributeValue Uid="24535CBC-A9BD-E377-A8AC-3FB884D4C048" Ifnr="18078" Text="Oberirdisches Geschoss" />
+            <AttributeValue Uid="F9BA0952-1033-479F-9203-7B8F1E8FE9A5" Ifnr="1399" Text="Sprinklerschutz" />
+            <AttributeValue Uid="07F241D8-AAFC-DEAA-0FAA-543F9293D90C" Ifnr="18079" Text="Sprinklerschutz automatisch" />
+		    <AttributeValue Uid="7759F0F4-0C97-C4E8-2472-871A749375CB" Ifnr="18082" Text="Deckentragfähigkeit" />
+            <AttributeValue Uid="3b6b5aa5-929f-4b27-aaa6-9b9cc756a3d9" Ifnr="1959" Text="Bruttofläche nach Raumprogramm" />
+            <AttributeValue Uid="8c8b0869-2d3d-486c-9510-5ecadafc61b5" Ifnr="1960" Text="Nettofläche nach Raumprogramm" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

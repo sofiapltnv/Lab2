@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Stair" Guid="287447c2-538b-4b54-a22c-e3b961a20e01" CurrentVersion="1.0.0.0" Etag="&quot;b6e43bd2-ae90-4f32-bcb6-1002b20b001f&quot;">
+     <AttributeSetDefinition Uid="6c94b058-5f82-d6b8-a0c7-3b31058607f4" Text="StairCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="0e68f47f-4701-44cf-b673-40bdeb4de27d" Ifnr="88" Text="Steigungsanzahl" />
+            <AttributeValue Uid="4ccf7f79-5042-4cb4-86bb-103e1f7a624f" Ifnr="1977" Text="Anzahl der Auftritte" />
+            <AttributeValue Uid="bf9069b7-94dd-4656-98a9-be04032d19e6" Ifnr="89" Text="Steigungshöhe" />
+            <AttributeValue Uid="aa88ce94-7410-4518-95f0-274145bf6c49" Ifnr="90" Text="Auftrittsbreite" />
+            <AttributeValue Uid="59a5ae53-9a39-4c3b-a114-db1d3466ed51" Ifnr="1973" Text="Überstand" />
+            <AttributeValue Uid="8ba5577c-6b77-413f-8ca6-82780d5efb68" Ifnr="1968" Text="Abstand der Lauflinie" />
+            <AttributeValue Uid="313a9b1c-4532-4adf-ba9d-20cc20982e08" Ifnr="1969" Text="Auftritt an der Lauflinie" />
+            <AttributeValue Uid="616efa58-f351-4c88-b07f-bc7c74757a00" Ifnr="1974" Text="minimaler Auftritt an der Innenseite" />
+            <AttributeValue Uid="24ae9515-9606-41fb-a94a-bad4ed32a09a" Ifnr="1971" Text="minimale Dicke der Treppenplatte" />
+            <AttributeValue Uid="9fd945fc-2a67-4dee-b72d-de7a990cf8c2" Ifnr="1377" Text="erf. Durchgangshöhe" />
+            <AttributeValue Uid="00566b05-f829-44cb-b6f2-b8e35aeaf739" Ifnr="1375" Text="Behindertengerecht" />
+            <AttributeValue Uid="2bb47ea5-6358-4e92-82d8-7c62f812f425" Ifnr="1406" Text="Rutschfest" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+			<AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="3c9667ea-655e-42c4-9fd8-e2a6e5c181eb" Ifnr="573" Text="Tragendes Bauteil" />
+            <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+            <AttributeValue Uid="3807d2e5-db67-47f7-bfdd-6a9fda9080fa" Ifnr="1376" Text="Fluchtweg" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

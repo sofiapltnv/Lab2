@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Door" Guid="30114b52-bc05-47c1-80b5-c7d5485d5846" CurrentVersion="1.0.0.0" Etag="&quot;d4f3fedb-c216-46c3-9964-f95be609977b&quot;">
+    <AttributeSetDefinition Uid="39a8b639-2a6a-4e54-777a-303c947017c7" Text="DoorCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+            <AttributeValue Uid="7a92ed54-6c33-4e79-a79f-9ec216d4c43a" Ifnr="1373" Text="Schallschutzklasse" />
+            <AttributeValue Uid="5c6e9ea4-cf77-4f29-b142-0ac4548cd6fa" Ifnr="1392" Text="Sicherheitsklasse" />
+            <AttributeValue Uid="b0bd8ce8-ac2c-aa7d-7bbe-971512bdaf03" Ifnr="18076" Text="Beanspruchungsklasse" />
+            <AttributeValue Uid="1972dc8e-3e5d-60ff-81be-4be98789bba9" Ifnr="18077" Text="Klimaklasse" />
+            <AttributeValue Uid="8AAA7D62-3EA6-4198-9B28-AEDB05D7D0D9" Ifnr="1965" Text="WaterTightnessRating" />
+            <AttributeValue Uid="A9A8335C-52A7-4FAF-AEAD-BEEAF398C54A" Ifnr="1966" Text="MechanicalLoadRating" />
+            <AttributeValue Uid="42AA3395-BC7B-40BF-9998-14004056BB28" Ifnr="1967" Text="WindLoadRating" />
+            <AttributeValue Uid="94cc3ccb-8310-4758-84e5-78b6f26bc332" Ifnr="1963" Text="Luftdurchlässigkeit" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="4bc06f23-4c36-4045-ad1d-f6a8f1bb90d4" Ifnr="1445" Text="Glasflächenanteil" />
+            <AttributeValue Uid="00566b05-f829-44cb-b6f2-b8e35aeaf739" Ifnr="1375" Text="Behindertengerecht" />
+            <AttributeValue Uid="2444fe3f-821f-4af9-a228-d213039a014f" Ifnr="1381" Text="Notausgang" />
+            <AttributeValue Uid="2f8adde9-d34e-41c5-aba1-451e2bc84a5d" Ifnr="1964" Text="Antrieb" />
+            <AttributeValue Uid="f17fb656-c743-4892-87a8-9d75d5656617" Ifnr="1380" Text="Selbstschließend" />
+            <AttributeValue Uid="d64a8658-5f03-4f10-9cef-3e2734b262e2" Ifnr="1379" Text="Rauchschutz" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

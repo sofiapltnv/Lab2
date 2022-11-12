@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Window" Guid="30114b52-bc05-47c1-80b5-c7d5485d5845" CurrentVersion="1.0.0.0" Etag="&quot;d387cd26-b3c5-4651-8fa1-52f4afaf7238&quot;">
+    <AttributeSetDefinition Uid="cc9a326c-6145-438e-545b-7c3ee926af5d" Text="WindowCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="7a92ed54-6c33-4e79-a79f-9ec216d4c43a" Ifnr="1373" Text="Schallschutzklasse" />
+            <AttributeValue Uid="ca505c51-56d3-44ec-bae4-d362e903a08a" Ifnr="935" Text="Feuerwiderstandsklasse" />
+            <AttributeValue Uid="5c6e9ea4-cf77-4f29-b142-0ac4548cd6fa" Ifnr="1392" Text="Sicherheitsklasse" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+            <AttributeValue Uid="94cc3ccb-8310-4758-84e5-78b6f26bc332" Ifnr="1963" Text="Luftdurchlässigkeit" />
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="4bc06f23-4c36-4045-ad1d-f6a8f1bb90d4" Ifnr="1445" Text="Glasflächenanteil" />
+            <AttributeValue Uid="542ea9c3-f609-4bfb-aee3-bf0e87edf9b5" Ifnr="1975" Text="Fensterbank außen" />
+            <AttributeValue Uid="e5376b4c-b93c-4c9e-abc6-86b6191a3b8b" Ifnr="1976" Text="Fensterbank innen" />
+            <AttributeValue Uid="2f8adde9-d34e-41c5-aba1-451e2bc84a5d" Ifnr="1964" Text="Antrieb" />
+            <AttributeValue Uid="d64a8658-5f03-4f10-9cef-3e2734b262e2" Ifnr="1379" Text="Rauchschutz" />
+            <AttributeValue Uid="2444fe3f-821f-4af9-a228-d213039a014f" Ifnr="1381" Text="Notausgang" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

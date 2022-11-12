@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="ElementAssembly" Guid="541dc119-800a-49c9-9017-24a89328f269" CurrentVersion="1.0.0.0" Etag="&quot;7c220929-cbe4-4bd4-a18e-b6183feaddbc&quot;">
+    <AttributeSetDefinition Uid="3dbd2cf2-22ab-4ce9-87d5-300966ed3bf4" Text="ElementAssemblyCommon">
+        <Attributes>
+		    <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

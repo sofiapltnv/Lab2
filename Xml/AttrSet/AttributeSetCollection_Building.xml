@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="Building" Guid="8a20adef-b06d-47ec-9d1d-f3bed748c72b" CurrentVersion="1.0.0.0" Etag="&quot;8cdcd045-3757-46a6-922d-48754eab2656&quot;">
+    <AttributeSetDefinition Uid="f6353c28-75d2-d6c7-8561-bfcd45100272" Text="BuildingCommon">
+        <Attributes>
+            <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="de6c256f-caf4-455b-a4e4-63da67dc3a60" Ifnr="696" Text="Gebäudekennzeichnung" />
+			<AttributeValue Uid="A93FE438-C145-52D1-08EA-F6D2FC6AFB44" Ifnr="18249" Text="Gebäudekennzeichen permanent" />
+			<AttributeValue Uid="32A46A39-B8F2-E624-61F4-5073A0A6A488" Ifnr="18250" Text="Art der Ausführung" />
+			<AttributeValue Uid="064A4D28-53D4-40E9-546B-560FABFBED4C" Ifnr="18251" Text="Gebäudeklasse Brandschutz" />
+            <AttributeValue Uid="F9BA0952-1033-479F-9203-7B8F1E8FE9A5" Ifnr="1399" Text="Sprinklerschutz" />
+            <AttributeValue Uid="07F241D8-AAFC-DEAA-0FAA-543F9293D90C" Ifnr="18079" Text="Sprinklerschutz automatisch" />
+		    <AttributeValue Uid="2ad43442-f3da-42f7-8d0e-5a092e7c5196" Ifnr="1101" Text="Nutzungsart" />
+            <AttributeValue Uid="3b6b5aa5-929f-4b27-aaa6-9b9cc756a3d9" Ifnr="1959" Text="Bruttofläche nach Raumprogramm" />
+            <AttributeValue Uid="8c8b0869-2d3d-486c-9510-5ecadafc61b5" Ifnr="1960" Text="Nettofläche nach Raumprogramm" />
+			<AttributeValue Uid="0bc48559-d62e-4ed2-b0c7-a35e8a39e1b4" Ifnr="468" Text="Geschossanzahl" />
+            <AttributeValue Uid="003aea87-ddec-407a-823d-50a766da4e8b" Ifnr="473" Text="Baujahr" />
+			<AttributeValue Uid="1335F4F7-2CF1-29AB-54EF-4FC8328939D2" Ifnr="18252" Text="letztes Renovierungsjahr" />
+			<AttributeValue Uid="F39F0169-2B69-FBEE-A474-95D19E43EC5B" Ifnr="18253" Text="Denkmalschutz" />
+        </Attributes>
+    </AttributeSetDefinition>
+    <AttributeSetDefinition Uid="AE4D420C-AC30-42AF-8F50-8AAB3F463AAE" Text="Building address">
+        <Attributes>
+            <AttributeValue Uid="79EA2837-1256-457E-B2A9-1B09B9B0B696" Ifnr="18257" Text="Abteilung" />
+            <AttributeValue Uid="A290AD70-586B-4C60-82D3-6813A8990328" Ifnr="18258" Text="Adresszeile 1" />
+            <AttributeValue Uid="DE5BC5F4-5EAB-43F1-A8D5-03C6D771D7AA" Ifnr="18259" Text="Adresszeile 2" />
+            <AttributeValue Uid="8CF1DA01-B9CC-41AA-9E4C-99363F0DA227" Ifnr="18260" Text="Postfach" />
+            <AttributeValue Uid="8FDBB713-9F03-4BDA-B882-46A192DFFC10" Ifnr="18261" Text="Stadt" />
+            <AttributeValue Uid="C945461E-3946-4E5F-BC91-7EECE1F893D5" Ifnr="18263" Text="Postleitzahl" />
+            <AttributeValue Uid="C06983BA-E09B-4B25-B1D1-E8F5082EF580" Ifnr="18262" Text="Region" />
+            <AttributeValue Uid="2045a78e-1cfe-49bc-8fd3-bee381cce1c9" Ifnr="289" Text="Land" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>

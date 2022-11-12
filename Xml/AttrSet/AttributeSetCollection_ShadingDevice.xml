@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AttributeSetCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Type="ShadingDevice" Guid="0780df0b-926b-4269-8e2c-6518be06b091" CurrentVersion="1.0.0.0" Etag="&quot;2c85b87a-6997-4e8e-adfa-d5a630a41c51&quot;">
+    <AttributeSetDefinition Uid="c11fe32e-094e-4013-bcc4-e902aa490f4e" Text="ShadingDeviceCommon">
+        <Attributes>
+		    <AttributeValue Uid="a74b62d6-6bdd-4526-8c25-7f3f771f692f" Ifnr="18222" Text="Reference" />
+            <AttributeValue Uid="bf50f942-0720-46dc-a9e4-29972ff25e99" Ifnr="49" Text="Status" />
+            <AttributeValue Uid="10F91B77-ACE5-94F5-CB1A-F15FA3904B33" Ifnr="18248" Text="Sonnenschutztyp" />
+            <AttributeValue Uid="CC47334D-5470-EBF9-474B-06EBA4B08B39" Ifnr="18241" Text="Mechanisch" />
+            <AttributeValue Uid="761DB8F6-5AF7-6AAD-E1A9-9F59198E5BE9" Ifnr="18242" Text="Strahlungstransmissionsgrad" />
+            <AttributeValue Uid="9CE5EC4C-B7C8-F5B7-C9C6-BD75593003B2" Ifnr="18243" Text="Strahlungsreflektionsgrad" />
+            <AttributeValue Uid="B3304E59-5A18-6361-D98E-656BB31B4469" Ifnr="18244" Text="Transmissionsgrad für sichtbares Licht" />
+            <AttributeValue Uid="41069E57-C142-5ED5-02B7-9DE259213BEA" Ifnr="18245" Text="Reflektionsgrad für sichtbares Licht" />
+            <AttributeValue Uid="741dc9c6-22bf-461d-a357-49380f515615" Ifnr="618" Text="Außenbauteil" />
+            <AttributeValue Uid="8f2fab67-8b8b-4e7d-be52-e6fb3c48af84" Ifnr="981" Text="U-Wert" />
+            <AttributeValue Uid="B8787076-602D-9DBC-FAEC-29326B0B7C06" Ifnr="18246" Text="Rauheit der Oberfläche" />
+            <AttributeValue Uid="0D9C9579-53DF-ADA8-FC6D-916438A273D6" Ifnr="18247" Text="Oberflächenfarbe" />
+        </Attributes>
+    </AttributeSetDefinition>
+</AttributeSetCollection>
